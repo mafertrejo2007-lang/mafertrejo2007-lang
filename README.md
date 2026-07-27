@@ -13,5 +13,4 @@
 - Advanced Excel
 
 ### 📂 Featured Projects:
-- [código50/297303011](https://github.com/mafertrejo2007-lang/codigo50-297303011) - Data analysis project.
-- [me50/mafertrejo2007-lang](https://github.com/mafertrejo2007-lang/me50-mafertrejo2007-lang) - Personal projects.
+- [portafolio-ciencia de datos] Personal projects
