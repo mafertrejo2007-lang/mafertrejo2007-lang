@@ -4,7 +4,7 @@
 - 📊 Passionate about **data analysis** and **programming**.
 - 🏆 certifications in Python and Excel.
 - 🎯 Goal: Apply data science in the public financial sector (BCRP, SBS, MEF).
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/tuusuario) *(Change this link to your profile)*.
+- 📫 Connect with me on[LinkedIn](www.linkedin.com/in/maria-fernanda-trejo-cotrina-477688425) 
 
 ### 🛠️ Tools & Technologies:
 - Python (pandas, matplotlib)
