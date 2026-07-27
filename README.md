@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm María Fernanda Trejo Cotrina
 
-<!--
-**mafertrejo2007-lang/mafertrejo2007-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Economic Engineering** student at **UNI** (National University of Engineering).
+- 📊 Passionate about **data analysis** and **programming**.
+- 🏆 certifications in Python and Excel.
+- 🎯 Goal: Apply data science in the public financial sector (BCRP, SBS, MEF).
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/tuusuario) *(Change this link to your profile)*.
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Technologies:
+- Python (pandas, matplotlib)
+- SQL
+- Power BI
+- Advanced Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects:
+- [código50/297303011](https://github.com/mafertrejo2007-lang/codigo50-297303011) - Data analysis project.
+- [me50/mafertrejo2007-lang](https://github.com/mafertrejo2007-lang/me50-mafertrejo2007-lang) - Personal projects.
