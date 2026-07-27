@@ -13,4 +13,4 @@
 - Advanced Excel
 
 ### 📂 Featured Projects:
-- [portafolio-ciencia de datos] Personal projects
+- [https://github.com/mafertrejo2007-lang/portafolio-data-science] Personal projects
